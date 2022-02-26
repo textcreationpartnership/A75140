@@ -1,0 +1,733 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of a paper, presented to the General Assembly, October 1690 Containing the complaints of many Presbyterian people, living in several shyres of Scotland. And novv a second time vvith additions offered to their consideration.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75140</idno>
+            <idno type="STC">Wing A189A</idno>
+            <idno type="STC">ESTC R223505</idno>
+            <idno type="EEBO-CITATION">99896522</idno>
+            <idno type="PROQUEST">99896522</idno>
+            <idno type="VID">133581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75140)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133581)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2415:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of a paper, presented to the General Assembly, October 1690 Containing the complaints of many Presbyterian people, living in several shyres of Scotland. And novv a second time vvith additions offered to their consideration.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland. --  General Assembly --  Early works to 1800.</term>
+               <term>Scotland --  Church History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:133581:1"/>
+            <head>An Account of a <hi>PAPER,</hi> preſented to the <hi>GENERAL
+ASSEMBLY, <hi>October</hi> 1690.</hi> Containing the <hi>Complaints</hi> of
+many <hi>Presbyterian</hi> People, living in ſeveral Shyres of
+<hi>Scotland.</hi> And novv a Second time vvith <hi>Additions</hi> offered to
+their Conſideration.</head>
+            <p>AS Union in Truth and Duty is a great Mercy and Bleſſing, and
+ought carefully to be intertained and maintained, ſo Diviſion is alwayes to
+be wearied of as a Miſery, and all lawful and honeſt Endeavours to be made
+uſe of, for healing the Breach: Of both theſe, the Church of
+<hi>Scotland</hi> hath been partaker in a great meaſure; Sometime in<g ref="char:EOLhyphen"/>deed
+this Church was famous for Union, and did ſhare of the Bleſſings, which
+uſually at<g ref="char:EOLhyphen"/>tends ſuch a happy Condition; Nevertheleſs of late, ſhe hath
+been much rent with Divi<g ref="char:EOLhyphen"/>viſions, and broken with Breaches, cauſed by the
+ſad Defections and Back-ſlidings where<g ref="char:EOLhyphen"/>in many of her Members, in the late
+defyling and unhappy times were involved; Againſt which, we thought it our
+duty to bear Witneſs and Teſtimony, by withdrawing from theſe, guilty of,
+and defending the ſame, out of Love to them, and that they
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight be convinced and aſhamed
+thereof<g ref="char:punc">▪</g> But albeit we did withdraw from many <hi>Presbyterian</hi>
+Miniſters, (whom notwithſtanding we loved and reverenced) involved in, and
+defending ſeveral of theſe Defections, ſeeing no other way left us in
+that broken and confuſed ſtate, of freeing our ſelves, from partaking in
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thereof; yet we never owned or
+looked upon it, as a ſepa<g ref="char:EOLhyphen"/>ration from the Church of <hi>Scotland,</hi> or the
+Miniſtry thereof, or ſo ſtated it, as that we would never more Unite: For
+as alwiſe we declared our willingneſs to joyn again, when ever we could
+have the opportunity without Sin; So of late we gave a demonſtration thereof,
+in applying to the <hi>General Aſſembly,</hi> by offering to them a
+<hi>Paper,</hi> containing our <hi>Com<g ref="char:EOLhyphen"/>plaints,</hi> which we earneſtly
+deſired might be Heard and Redreſſed, that ſo our Union after ſo long
+an interruption, might be the more comfortable. A brief account of the
+Ma<g ref="char:EOLhyphen"/>nagement of which <hi>Paper</hi> followeth.</p>
+            <p>When it was known, that there would be an <hi>Aſſembly,</hi>
+it was judged requiſite, we ſhould lay hold upon that opportunity to
+remonſtrate and repreſent to them our <hi>Com<g ref="char:EOLhyphen"/>plaints</hi> and
+<hi>Grievances</hi> (under which we had been groaning) and ſeek Redreſs of
+the ſame, and that theſe Defections and Corruptions might be condemned,
+which had offended us, and cauſed our withdrawing in the broken Caſe
+foreſaid, that ſo our Union might be with the greater comfort. Upon which a
+<hi>Paper</hi> being drawn up, it was brought to one of our <hi>Gene<g ref="char:EOLhyphen"/>ral
+Meetings,</hi> where it was agreed, to the End all our Friends concerned
+therein might be throughly informed of the ſaid <hi>Paper,</hi> that Coppies
+ſhould be written and ſhown to our Societies, who might conſider thereof,
+and ſend two or three, or moe of their num<g ref="char:EOLhyphen"/>ber unto <hi>Edinburgh,</hi> to
+Subſcrive it in their Name. According to which concluſion, ſome
+Perſons, from ſeveral places of the Countrey, came to <hi>Edinburgh,</hi>
+where the <hi>Paper</hi> w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s
+ſub<g ref="char:EOLhyphen"/>ſcribed by ſundry Hands, in name of many others. The Tenor whereof
+followeth.</p>
+            <div type="part">
+               <pb n="2" facs="tcp:133581:2"/>
+               <head>To the MODERATOR, and Remnant Members of this Reverend
+GENERAL ASSEMBLY.</head>
+               <head type="sub">The COMPLAINTS and Humble PETITION of many
+<hi>Presbyterian</hi> People, Living in ſeveral Shyres of
+<hi>Scotland.</hi>
+               </head>
+               <p>SEEing the Lord in the riches of His infinite Mercy, wherein He
+hath abounded towards this Ge<g ref="char:EOLhyphen"/>neration in the late Revolution of Providence,
+far beyond all poſſible Acknowledgements, hath been pleaſed to grant at
+length this long wanting, long wiſhed and prayed for Priviledge, of ſeeing
+a free <hi>General Aſſembly</hi> of Presbyterian Miniſters, gathered and
+fenced in the Name of our Lord JESUS; We cannot, dare not, and muſt not omitt
+this Opportunity of Applying our ſelves there<g ref="char:EOLhyphen"/>unto, for a Redreſs of
+theſe many long laſting <hi>Complaints</hi> and <hi>Grievances,</hi> under
+which we have Groaned theſe many years; The chiefeſt, bittereſt<g ref="char:punc">▪</g> and
+moſt burdenſome of which (thô we have not wanted our ſhare of other
+Burdens and Afflictions very heavy) hath been, and yet remains to be, even in
+this plenty, our ſcarcity and famine of <hi>Goſpel Ordinances,</hi> wherein
+we have languiſhed of a long time, ſighing over our ſilent Sabbaths, as
+Sheep ſcattered without a Shepherd fainting for hunger, at the head of every
+Street, and panting after the green Paſtures and pleaſant Water-brooks of
+the Preached Goſpel; And yet ſcarred and made to ſtand aloof from it, by
+the Stumblings, Ten<g ref="char:EOLhyphen"/>tations, Defections and Diviſions of theſe unhappy
+times paſt; Which, as it hath been our greateſt ſorrow, ſo no comfort
+on this ſide Heaven, could be ſo deſireable, as to re-enjoy and recover
+again acceſs with clearneſs to pure and powerful <hi>Goſpel
+Ordinances,</hi> without which we ſhall never have a plea<g ref="char:EOLhyphen"/>ſant day in the
+greateſt abundance of all our outward peace. It was truely, <hi>Right
+Reverend</hi> a Re<g ref="char:EOLhyphen"/>proach upon us moſt heavy to bear, that we were called
+Deſpiſers of the Goſpel, and of the Miniſtry thereof, which ye<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo far as we had clearneſs and acceſs, we ſought
+after and followed, even upon the hazard of our Lives, ſo earneſtly, that
+no terror of Perſecuters could drive us from the purſute of it: And nothing
+moved us to withdraw from theſe Miniſters<g ref="char:punc">▪</g> who reckoned themſelves
+rejected by us (whom nevertheleſs we loved and reſpected, and do high<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> love and reverence) but their ſad
+Involvements in the Defections of the late defyling and unhappy times; ſeeing
+no other may left us in that broken ſtate, of keeping up a Teſtimony
+againſt the ſame, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our
+ſelves from partaking in the ſix thereof, but that abſtraction in theſe
+circumſtances, which we never looked upon, as a Separa<g ref="char:EOLhyphen"/>tion from the Reformed
+&amp; covenanted Church of <hi>Scotland,</hi> (as is more fully ſhewed in our
+<hi>Infor<g ref="char:EOLhyphen"/>matory Vindication,</hi> which we here Homologate) but only from the
+Defections &amp; Sins of which ma<g ref="char:EOLhyphen"/>ny of her Members were guilty; and not that
+we ſhould never <g ref="char:V">Ʋ</g>nite more upon any Conditions: For Schiſm is, and ever
+was equally hateful to us as ſinful <g ref="char:V">Ʋ</g>nion; and we are now, and alwiſe
+were, moſt de<g ref="char:EOLhyphen"/>ſireous to Joyn again, in terms moſt pleaſing to the
+LORD, edifying to the Church, and ſatisfying to our Conſciences. We are not
+for impoſing Terms, giving Directions, or preſcribing Rules to
+Mi<g ref="char:EOLhyphen"/>niſters, more than we are to be impoſed upon, and implicitely led by
+them; yet ſeeing People are al<g ref="char:EOLhyphen"/>lowed of the LORD, ſometimes in ſobriety,
+to ſay to <hi>Archippus, Take heed to the Miniſtry, which thou haſt
+received in the LORD, and fulfill it;</hi> And when Offences are given by
+Mini<g ref="char:EOLhyphen"/>ſters, it is Peoples Priviledge to plead for the removing of them, in a
+Chriſtian way, to the ſatisfacti<g ref="char:EOLhyphen"/>on of the offended Party. We humbly
+conceive, in order to the removal of the many offences given and taken, in this
+our day, in order to our comfortable Reconciliation together, and that we may
+be reconciled to the LORD, and His Wrath turned away, that Confeſſing,
+Foreſaking and Condemn<g ref="char:EOLhyphen"/>ing the Courſes that have been ſo offenſive, is
+very neceſſary And ſeing in merciful Providence, there is a Door opened,
+whereby ye have acceſs and capacity to fall about Building the Temple of the
+Lord, <pb n="3" facs="tcp:133581:2"/>&amp; cleanſing it from theſe
+<gap reason="illegible" resp="#OXF" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>neſſes, wherewith in times of
+Defection bygone, it hath been defiled, and removing theſe Stumbling-blocks
+which have offended the Conſciences of many tender and ſerious People:
+Therefore, in all Humility and Reverance, we muſt take the freedom to
+repreſent to this Reverend <hi>Aſſembly,</hi> in a few particulars, what
+things chiefly have ſtumbled us, and occaſioned our withdrawing for ſo
+long a time, from many Miniſters of this Church, which we cannot omit to
+<hi>Complian</hi> of and <hi>Proteſt</hi> againſt: Deſigning hereby not
+to irritate or offend, nor to lay the Faults of any open unto the World, nor to
+plead our own Innocence, but deſiring to acknowledge our deep ac<g ref="char:EOLhyphen"/>ceſſion
+alſo to the Sins, which hath provocked the LORD to all this anger againſt
+this Church and Kingdom: That which hath drawn from us, the mentioning of
+theſe things, is that the remembering of them, may help us all to the ſight
+and ſenſe of theſe Sins amongſt others, that we may be found Mourning
+for them, and keeping up a Teſtimony againſt them; And to ſhew our
+earneſt deſire of having Peace and Truth, <g ref="char:V">Ʋ</g>nion and Order, among all the
+Lovers and Well wiſhers of Zion, ſet<g ref="char:EOLhyphen"/>tled upon Laſting and Solid
+Foundations and Comfortable Communion in Ordinances reſtored to us who have
+been long driven away, from that Benefite, by theſe offences.</p>
+               <p>As it was not a little afflicting to behold, ſo it is now no
+pleaſure to remember, that when <hi>Prelacy,</hi> condemned in the Word of
+GOD, and abjured by our Covenants, was eſtabliſhed, many Miniſters did
+hear and joyn with theſe perjured Hyrlings and Intruders the <hi>Prelats</hi>
+and their <hi>Curats,</hi> Yea and perſwaded others to the like Practice:
+Whereby their hands were ſtrengthened, and the Hearts of many of the Godly
+were ſadned, and their Conſciences ſtumbled: We deſire to be thankful
+that Pre<g ref="char:EOLhyphen"/>lacie is condemned by Act of Parliament, nevertheleſs we are grieved
+that ſuch Joyning and Comply<g ref="char:EOLhyphen"/>ing therewith is not yet condemned, nor the
+Practiſe of theſe that withdrew approved.</p>
+               <p>As it was no ſmal grief of heart to ſee the
+<hi>Supremacy,</hi> which belongs only to the Lord JES<g ref="char:V">Ʋ</g>S, as King and Head of
+His Church, given away to a miſerable Mortal, and ſettled upon him by Law;
+ſo it was an augmentation to our Sorrow, to ſee an <hi>Indulgence</hi>
+flowing therefrom, clogged with Reſtrictions, very prejudicial to the honour
+and freedom of Chriſts Ambaſſadours, embraced by ſe<g ref="char:EOLhyphen"/>veral
+Miniſters<g ref="char:punc">▪</g> and juſtified by others, which did much ſtrengthen
+theſe wicked <g ref="char:V">Ʋ</g>ſurpations on our Lords Crown Rights, &amp; His Churches
+Liberties, and gave occaſion of great Stumbling and Offence, and was a Bone
+of Contention among the Lords People in this Land. But yet thô both the
+accurſed Fountain, and impure Stream be removed and cut off, for which we
+deſire to Bleſs the Lord, the Sin thereof nevertheleſs is not
+Confeſſed and Condemned; the doing whereof we are perſwaded, would be
+very contributive to the turning away of the Lords anger, and ſatisfying all
+offended.</p>
+               <p>It was very Stumbling and Offenſive to us, when many Snares
+and Tentations were abounding and going through the Land, that then many
+Miniſters who ſhould have Preached in Seaſon, and out of Seaſon, and
+whom no Diſpenſation could diſcharge from that great and neceſſary
+Duty, did not ſet the Trumpet to their mouth, to give faithful warning in
+times of ſuch danger, as became Watch<g ref="char:EOLhyphen"/>men; but thô often called to
+Preach in the Countrey, did either faintly leave the Land, or lurked and lay by
+in the Land, and others when they Preached, either did not apply their Doctrine
+to the Times, ſo as we might take it up, or were ambiguous in their
+Application of their Doctrine to the dangers of the Times, whereby many were
+left to periſh in their iniquity, and the hands of theſe who endeavoured to
+keep clean Garments, were not ſtrengthned: Yea, it was very offenſive to
+behold the practice and carriage of ſome Miniſters, who inſtead of
+ſtrengthning their hands, who were at that time moſt forwardlie and
+zealouſlie appearing and contending for the Cauſe and Intereſt of CHRIST,
+and joyning with, countenancing or encouraging the Miniſters, who were
+Valiant for the Truth, and <pb n="4" facs="tcp:133581:3"/>Jeoparded their Lives, in the high
+places of the fields, for the Teſtimony of CHRIST, did con<g ref="char:EOLhyphen"/>demn their
+laudable endeavours, and reproached them, and their actings and ſufferings,
+both at home and abroad.</p>
+               <p>More eſpecialy it was ſad and ſtumbling to us, when many
+<hi>Miſchiefs,</hi> were framed into Laws, by a Throne of Iniquity, when many
+wicked <hi>Oaths</hi> and <hi>Bonds,</hi> enſnaring Conſciences, contrare
+to the Word of GOD, and our National Covenants were impoſed, and when we were
+required upon pain of Death, to owne the Authority of, and acknowledge
+Alegiance to <hi>Tyrants</hi> and <hi>Uſurpers,</hi> as our Lawful
+Magiſtrats, whom GOD had ſet over us, as His Miniſters of Juſtice, that
+then many Mini<g ref="char:EOLhyphen"/>ſters, did comply with theſe wicked Laws, and taught the
+People to obey them, and ſome did take and ſubſcribe theſe
+<hi>Oaths</hi> and <hi>Bonds</hi> themſelves, and perſwaded People to take
+them, and not only owned and acknowledged Alegiance to theſe <hi>Tyrants</hi>
+and <hi>Uſurpers,</hi> prayed for them and their Go<g ref="char:EOLhyphen"/>vernment, and pleaded for
+the Lawfulneſs of their Authority; Yea, ſome prayed for the pretended
+Prince of <hi>Wales:</hi> But inſtead of ſympathizing with the ſufferings
+of theſe that could not in Conſci<g ref="char:EOLhyphen"/>ence owne that Authooity, condemned and
+inveighed againſt them as fools, and dying in an errour. We have reaſon to
+be thankful for this reviving in our Bondage, and that the yoke of
+Oppreſſion and Perſecution is taken from off our necks; yet we wiſh
+that untender carriage towards conſcienci<g ref="char:EOLhyphen"/>ous Sufferers were reſented, and
+the Heads and Cauſes were approven and juſtified, upon which theſe
+reproached Martyrs and Confeſſors ſuffered.</p>
+               <p>It was very burdenſome to our Conſciences, that a Popiſh
+<hi>Toleration</hi> deſigned to introduce <hi>Pope<g ref="char:EOLhyphen"/>ry</hi> into this Land
+again, granted by K. <hi>James</hi> from his Abſolute Power, which he
+blaſphemouſlie arrogated to himſelf, and whereby he preſumed to ſtop
+the <hi>Penal Laws</hi> againſt <hi>Papiſts,</hi> and clog<g ref="char:EOLhyphen"/>ged with many
+Limitations, was embraced by many <hi>Presbyterian</hi> Miniſters, and
+Addreſſed for, to that Popiſh <g ref="char:V">Ʋ</g>ſurper, in the Name of <hi>ALL:</hi>
+Which many of the Godly of the Land looked upon with weeping eyes, as a ſad
+ſtep of Defection from the wonted Zeal of the Miniſters of
+<hi>Scotland;</hi> The Sin and Scandal of this courſe is evident in a
+<hi>Teſtimony</hi> given in againſt the ſame, by ſome Mini<g ref="char:EOLhyphen"/>ſters,
+which we here own: Yet now, notwithſtanding that it be removed, and the
+wicked power it flowed from, we cannot think the Sin and Scandal of it is taken
+away, ſo long as the ſame is not confeſſed, mourned over and
+condemned.</p>
+               <p>The condemning of all theſe <hi>Courſes</hi> of
+<hi>Complyance</hi> and <hi>Defections,</hi> would not only be as a Beacon
+ſet up to hinder the following Generation from ſpliting on ſuch dangerous
+Rocks, but alſo will make our <g ref="char:V">Ʋ</g>niting and Joyning with theſe, from whom
+we ſtand at a diſtance (which we long for, and pray for) cordial and
+comfortable.</p>
+               <p>We are alſo diſſatisfied and offended at ſeveral things
+at preſent; It might have been expected, that the Mercies we have met with of
+late, ſhould have filled our Hearts with kindly ſorrow for our for<g ref="char:EOLhyphen"/>mer Sins
+and Backſliding, and inflamed the Souls of all the Lovers of Chriſt, with
+more Zeal, for advancing and promoting Reformation in this Land, according to
+the capacity and opportunity the Lord hath put in their hands; But alas!
+unſuteable hath been our Returns of Fruitfulneſs and Thank<g ref="char:EOLhyphen"/>fulneſs; And
+as all of us have come far ſhort of improving theſe Opportunities, ſo the
+practice of theſe Miniſters continues to be very offenſive and
+ſtumbling, who inſtead of Confeſſing and Condemning the above written
+Defections, and minding the People of their former Backſlidings, and
+diſcovering the Sins of the la<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e
+times, that were many and heinous, to the end, they may be induced to mourn
+o<g ref="char:EOLhyphen"/>ver them, and to turn unto the Lord, do yet continue to defend and hide their
+own guilt, and there<g ref="char:EOLhyphen"/>by to harden others in Impenitency; So that the wrongs
+done to Chriſt, are like to be forgotten and buried, and few are like to be
+brought off from the evil of their vvayes.</p>
+               <pb n="5" facs="tcp:133581:3"/>
+               <p>We are alſo much diſcouraged and diſſatisfied, that the
+<hi>National</hi> and <hi>Solemn League</hi> and <hi>Co<g ref="char:EOLhyphen"/>venants,</hi> have not
+only not been renewed, but not contended for by many, the affront done to them,
+and their binding force not declared, but like to be buried in oblivion. And
+more eſpecially it was wound<g ref="char:EOLhyphen"/>ing to us to
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear, that when opportunitie was
+given, and acceſs to Addreſs the King and Parliament, the mentioning of
+theſe holy Covenants was omitted; And ſince the King and Queen were
+advanced to the Throne, we fear that that faithfulneſs &amp; freedom hath not
+been uſed as was wont to be in former times, to warne and admoniſh their
+Majeſties, of the Sins and Snares of the Throne, to beware of evil
+Councellors, and of the guilt and danger of tampering with, and patronizing
+<hi>Prelacie</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> nor to diſcover
+and declare to them, and the Parliament, the Sin and danger of bringing into,
+and keeping in places of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ower and
+Truſt, in Judicatories and <hi>Armies,</hi> Perſon's who are known
+Malignant Enemies to Truth and Godlineſs, and to the preſent Intereſt now
+to be maintained, as faithful Miniſters in former times uſed to witneſs
+againſt ſuch ſinful Aſſociations; and after all that is come upon us
+for our evil deeds, and have gotten ſuch a deliverance as this, if a<g ref="char:EOLhyphen"/>gain His
+Commandements be broken, by joyning in affinity with the People of theſe
+abominations, it will be more than ever dangerous both to King and Kingdom.</p>
+               <p>Likewiſe, albeit we dare not deſpiſe the day of ſmall
+things, and deſires to bleſs the Lord for what we have ſeen; yet we
+cannot conceal our ſorrow, that the great and glorious <hi>Attainments</hi>
+between the year <hi>1638</hi> &amp; <hi>1649,</hi> being years of the right
+Hand of the Moſt High in which we were brought under the renewed Bond of
+Solemn <hi>Covenants,</hi> are not revived, nor any honourable mention made of
+them, in any of the Acts, eſtabliſhing the Priviledges of the Church, which
+we think a loſing of the ground which our Fathers gained. We do not ſay,
+that it was in the power of Miniſters to redreſs this, before or after, it
+was done; yet as we conceive the pleading for the full of this in their
+<hi>Addreſſes,</hi> was not above their reach, and that they ſhould have
+ſignified their diſlike at the want thereof, and taken what they got by
+theſe Acts, with a Proteſtation, that it ſhould be without prejudice of
+their ſeeking and getting more; ſo in our poor Judgement, we think in all
+Eſtabliſhments of Religion and religious Rights in a Land, reſpect, is
+alwayes to be had to the Patern and Rule of GOD's revealed Will in His Word,
+and not to Worldly Politicks.</p>
+               <p>It is alſo very diſcouraging and offenſive, and we cannot
+but complain of it, that now when there is an opportunity to purge the Church
+from theſe Corruptions, wherewith ſhe hath been long peſtered and
+plagued; yet thô <hi>Prelacy</hi> be aboliſhed by the <hi>State,</hi>
+and many <hi>Curats</hi> put away, ſome one way, ſome another, we hear of
+none cenſured and removed for <hi>Prelacy, Perjurie</hi> and
+<hi>Intruſion,</hi> and ſome Miniſters are alſo pleading for keeping
+them in, upon Carnal and Politick grounds, who we fear may afterwards do more
+Hurt and Miſchief, than the Good now pretended can countervail; And that if
+this occaſion be loſt of purging the Church of inſufficient, corrupt and
+ſcandalous Officers of all ſorts, eſpecially of <hi>Prelatick
+Curats,</hi> and of planting it with Godly, faithful, and able Miniſters, we
+may all repent of it too late.</p>
+               <p>More eſpecially, It is very ſtumbling and offenſive to us,
+that albeit there be an opportunity with<g ref="char:EOLhyphen"/>out fear and danger to exerciſe
+Diſcipline impartially and faithfully; yet ſome who have formerly taken the
+abominable <hi>Teſt,</hi> and are guilty of other groſs <hi>Scandals,</hi>
+are admitted to be Officers of the Church, ſome to be Miniſters, and ſome
+to be Elders, and many guilty of very groſs degrees of Complyance, are
+admitted to the Sacrament, without any publick Acknowledgement of their
+Offen<g ref="char:EOLhyphen"/>ces; <pb n="6" facs="tcp:133581:4"/>whereby they and others are hardened, and many of
+the Godly ſtumbled, to the great diſadva<g ref="char:EOLhyphen"/>tage of the Church.</p>
+               <p>To conclude, <hi>Right Reverend,</hi> we expect and intreat,
+that ye will not offend at our freedom, in what we here <hi>Repreſent,</hi>
+but our meaning and end to have differences ſatisfyingly removed, will move
+you, to put a favourable conſtruction upon that, which a Critical
+Diſpoſition, might be rea<g ref="char:EOLhyphen"/>dy to cenſure for raſhneſs and ignorance,
+and medling in matters wherein we are not concerned: But tho we ſhould be
+condemned and cenſured with the greateſt ſeverity, and be counted yet
+more vile, we muſt ſeek, we muſt cry, for the removing of theſe
+<hi>Stumbling Blocks,</hi> and condemning theſe <hi>Courſes,</hi> which
+have done our Lord <hi>JES<g ref="char:V">Ʋ</g>S</hi> ſo much wrong, and His Children ſo much
+hurt, in the ſtanding in the way of their comfortable and edifying Communion
+with the Church; Let the famiſhing and ſtarving caſe of our Souls,
+through want of the Bleſſed <hi>Goſpel,</hi> and our hungering to hear it
+preached by you, prevail with you to conſider our <hi>Complaints,</hi> and
+let the Wounds of our bleeding Mother, panting to be healed by the Hand of the
+tender hearted <hi>Phyſician,</hi> have weight with you not to ſlight or
+deſpiſe our <hi>Deſires:</hi> But if ye ſhall ſhut your eyes and ears
+at them, then we know at the time, no Remedy left us, but to <hi>Complain</hi>
+and <hi>Proteſt</hi> unto <hi>Judicatories;</hi> and cry, ſigh and groan to
+the <hi>Father of Mercies,</hi> who is tender of all His Litle ones, and is the
+Hearer of Prayer, that He may ſee to it, and heal our Backſlidings and
+Breaches in His own time and way, and not lay it to your charge, that ye have
+had ſo little regard to the ſtumbling and ſaddenning of ſo many of His
+poor, broken, bruiſed, and ſcattered Sheep, and that ye have not had
+greater care to ſtrengthen the Diſeaſed, and to heal that which was
+ſick, and to bind up that which was broken, and to bring again that which was
+driven away, and to ſeek that which was loſt.</p>
+               <p>
+                  <hi>AFter Subſcribing of the</hi> Paper, <hi>ſome Men were
+choſen in name of the reſt, to preſent it to the</hi> Aſſembly,
+<hi>to deſire an Anſwer, and to uſe diligence therein, of which they were
+to give an account to their Friends: But the delivering of it in was thought
+re<g ref="char:EOLhyphen"/>quiſite to be delayed a little until it was known, what would be done with
+a</hi> Paper <hi>given in to the</hi> Aſſembly <hi>by Mr</hi> Thomas
+Lining, <hi>Mr</hi> Alexander Sheilds, <hi>and Mr</hi> William Boyd; <hi>yet
+thô it be not expedient to relate either the iſue of that buſineſs,
+or how the ſame was managed, nevertheleſs it is not unſuitable to the
+preſent purpoſe to mention this, that inſtead of a ſatisfactory
+Anſwer, it was very offenſive to many, that the</hi> Aſſembly <hi>by
+a</hi> Vote <hi>refuſ<g ref="char:EOLhyphen"/>ed to read the foreſaid</hi> Paper <hi>preſented by
+the Miniſters above named, upon the Rea<g ref="char:EOLhyphen"/>ſons given in by the</hi> Committee
+<hi>of</hi> Overtures, <hi>why it ſhould not be read, which condemned the
+ſame, before it was heard; eſpecially the perſons entruſted with the
+ſubſcribing and in<g ref="char:EOLhyphen"/>giving of our</hi> Paper, <hi>and ſome others were
+ſo offended, that they judged it duty to ſignifie their diſſatisfaction
+therewith to the</hi> Aſsembly: <hi>Whereupon a ſhort</hi> Paper <hi>being
+drawn up, was ſubſcribed by the Men (choſen to deliver the other</hi>
+Paper) <hi>in their own Name; Repre<g ref="char:EOLhyphen"/>ſenting it as an additional</hi>
+Complaint, <hi>that the</hi> Aſſembly <hi>had, in the manner above
+ſpe<g ref="char:EOLhyphen"/>cified, refuſed to read the foreſaid</hi> Paper.</p>
+               <p>
+                  <hi>To get opportunity for delivering in both theſe</hi>
+Papers <hi>to the</hi> Committee <hi>of</hi> Overtures, <hi>by whom they might
+be tranſmitted to the whole</hi> Aſſembly, <hi>the Men went to the place
+where the ſaid</hi> Committee <hi>was ſitting, where meeting with two
+Miniſters (Members thereof) and after ſome conference with them, concerning
+the</hi> Papers; <hi>One of the Miniſters ſaid, he would inform the</hi>
+Committee <hi>of them; Accordingly they having both gone in, acquainted 
+<pb n="7" facs="tcp:133581:4"/>the</hi> Committee <hi>therewith, who (inſtead of giving
+the Men acceſs, a priviledge denied to none but them) only nominate two
+Miniſters and a Ruling Elder, to ſpeak with them: Theſe immediatly coming
+out, had conference with the Men: Before whom firſt the ſhort</hi> Paper,
+<hi>next the Larger were read; After hearing both, and deſiring ſome things
+to be al<g ref="char:EOLhyphen"/>tered in the large</hi> Paper <hi>(which could not be condeſcended
+unto) they endeavoured to diſ<g ref="char:EOLhyphen"/>ſwade the Men from preſſing the reading
+of them in the</hi> Aſſembly; <hi>which the Men inſiſted earneſtly
+for, and for an Anſwer to return to their Friends: When theſe Miniſters
+found them ſo preſſing for this, they promiſed to repreſent it to
+the</hi> Committee; <hi>whereupon one of them went in, ſpoke of it to them,
+and delivered the</hi> Papers <hi>to the</hi> Clerk. <hi>After this, the Men at
+ſeveral occaſions, ſolicited the Miniſters above mentioned, and ſome
+others, that the</hi> Papers <hi>might be read in the</hi> Aſſembly,
+<hi>and to have ſomewhat to return to their Friends: But the Anſwer they
+received, was a</hi> Letter <hi>ſubſcribed by three Miniſters, direct to
+them: Which followeth.</hi>
+               </p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>Loving Friends,</salute>
+                     </opener>
+                     <p>THE <hi>Papers</hi> you gave in to the <hi>Aſſembly,</hi>
+were firſt given in to the <hi>Committee</hi> of <hi>Overtures,</hi> and we
+were by them appointed to confer with you; And after ſome conference with
+you, we moved in the <hi>Committee,</hi> that the <hi>Aſſembly</hi> would
+order the <hi>Papers</hi> to be given in to theſe, who were to draw up the
+<hi>Monitory Letter,</hi> and cauſes of the <hi>Faſt,</hi> that they might
+make their own uſe thereof, in drawing up the ſame: Which at the firſt
+next <hi>Seſſion</hi> of the <hi>Aſſembly,</hi> on Saturnday laſt,
+the firſt of <hi>November,</hi> was accordingly done in open
+<hi>Aſſembly,</hi> and we by the <hi>Aſſembly</hi> allowed to report
+the ſame to you; which now accordingly we do: And we hope this will
+ſatisfie you, and others who did commiſſionate you; and that the Lord
+will encline your Hearts to Peace, and to guard againſt any further rent in
+the Church of GOD; and in this hope we ſubſcribe our ſelves,</p>
+                     <closer>
+                        <dateline>
+                           <hi>Edinburgh,</hi> 
+                           <date>
+                              <hi>Novem<g ref="char:EOLhyphen"/>ber 3. 1690,</hi>
+                           </date>
+                        </dateline> 
+                        <signed>
+                           <hi>Your Friends and Servants in the
+LORD.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>FRom which</hi> Letter, <hi>we ſhall only take notice of
+this, that as we have never yet ſeen the</hi> Monitory Letter <hi>mentioned
+therein, whereby we do not know what uſe is made in it of our</hi> Paper;
+<hi>ſo albeit we have got a ſight of the Cauſes of the</hi> Faſt,
+<hi>from which it was ſaid (ſeveral times) that we ſhould receive
+Satisfaction to our Scruples, yet we are ſo far from getting of the ſame,
+that we muſt Complain, not only of the ambiguity of ſome Expreſi<g ref="char:EOLhyphen"/>ons in
+it, but alſo of its Lameneſs, ſeveral things being omitted, which are
+ſteps of De<g ref="char:EOLhyphen"/>fections and Cauſes of Wrath; And that the abominable</hi>
+Teſt, Declaration, Prelatical In<g ref="char:EOLhyphen"/>truſions, <hi>being once in, were put out
+again.</hi>
+               </p>
+               <p>
+                  <hi>We hope, as well as Seriouſly deſires, that our deſign
+in Publiſhing what is above, may not be miſtaken, but rightly
+Conſtructed, ſeeing it is not to irritate or offend any Perſon; But to
+make manifeſt what hath been our endeavours, in order to get a</hi>
+Comfortable <g ref="char:V">Ʋ</g>nion, <hi>with theſe Miniſters, from whom we are yet
+ſtanding at a diſtance: As alſo to let them know, how unexpected, yea
+aſtoniſhing it was to us, when we heard that our</hi> Paper <hi>of</hi>
+Complaints, <hi>was ſo little regarded, as not once to be read, either in
+the</hi> Committee, <hi>or open</hi> Aſſembly; <hi>It contained what really
+was and is ground of offence and matter of Com<g ref="char:EOLhyphen"/>plaint to us; And whatever was
+pretended for not reading thereof, yet the Conſequences <pb n="8" facs="tcp:133581:5"/>hath been ſad, having created Jealouſies, Scruples and
+Diſcontents, and hath been tho occaſion of a further rent, for it could not
+be rationally expected, that to deny that pri<g ref="char:EOLhyphen"/>viledge to them, which was
+granted to others, was the way to heal the breach, which was wide, and remove
+the Scruples that were many, of theſe, who are Conſciencious; This was
+rather the way to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oment new Debates
+and Jarrs, then to cement, or remove the old: And in like manner that we may
+have opportunity and occaſion hereby, again to deſire of, and cry unto
+Miniſters, not only for removing of our former Scruples, and redreſſing
+of our old</hi> Complaints <hi>and</hi> Grievances, <hi>but alſo to</hi>
+Repreſent, <hi>ſome</hi> New Ones, <hi>which are not only burdenſome,
+grievous and offenſive to us, but to many of the Godly in the Land;
+earneſtly intreating, and fervently deſiring, that Miniſters, may do what
+is incumbent for them, and in their Power<g ref="char:punc">▪</g> for removing of the ſame: One
+is,</hi>
+               </p>
+               <p>
+                  <hi>The</hi> Admiſſion <hi>of ſome of the</hi> Prelatical
+Curats, <hi>not only to the exerciſe of the Miniſtry, but to a ſhare of
+the Government of this Church; of which, we crave leave to ſignifie our
+diſlike and diſſatisfaction, and to teſtify againſt the Peſtering
+and polluting the Church with them; In regard it is the receiving in of ſuch
+Men whom the Scriptures declares ſhould be a<g ref="char:EOLhyphen"/>voided and with drawn from,
+becauſe they have cauſed diviſions and offences, contrare to the Doctrine
+which this Church learned, and walked not only diſorderly themſelves, but
+many of them compelled others to do ſo, and Perſecuted theſe who
+deſired to keep their Garments clean; In regard it is unreaſonable, and not
+conſiſtent with policy, to put Weapones in the Hands of</hi> Enemies,
+<hi>leſt they may turn them againſt us, if not openly, yet in a way as
+dangerous; Yea it is not long ſince all of them were Reckoned</hi> Such:
+<hi>And whatever ſome of them pretend to now, yet the time of this Change
+makes the ſincerity of their Repentance ſtrongly ſuſpicious, neither
+does it ſeem reaſonable or ſafe to admit ſuch Men to a ſhare of the
+Government, who oppoſed the ſame, while Power was in their Hands, or to
+commit to them the care of Souls, who formerly have poiſoned and done great
+hurt to many of them; In regard they are incapable to give ſecurity, for
+their being Faithful, and true to the Government, as is required in the
+Inſtructions given by the</hi> Aſ<g ref="char:EOLhyphen"/>ſembly, <hi>being Men, not only guilty
+of Intruſion, dreadful Apoſtacy, advancing the king<g ref="char:EOLhyphen"/>dom of Satan,
+perſecution (ſome one way, ſome another) of the Godly, and not a few of
+them, of profanity and errour, but alſo of groſs perjurie by taking wicked
+and contra<g ref="char:EOLhyphen"/>dictory</hi> Oaths, <hi>as that abominable</hi> Teſt <hi>&amp;c.
+And teaching others to do ſo, all repugnant to our</hi> Solemn Covenants,
+<hi>whereby they have forefaulted the Honour of any</hi> Truſt <hi>a<g ref="char:EOLhyphen"/>mongſt
+Honeſt Men, much more in ſuch great and weighty matters, as are the having
+a ſhare in the Government of CHRISTS Houſe, and the care and over-ſight
+of Souls; In regard the taking in of theſe Men, will tend to the preſent
+hurt of the Church, ſeing it will occaſion a great Breach and Diviſion in
+the ſame, which will do much more hurt, than all the good theſe Men will
+do, can countervail; In regard it will rend to the prejudice of the
+Poſterity, whoſe advantage ſhould be ſought, by endeavouring to
+tranſmit pure Or<g ref="char:EOLhyphen"/>dinances to them, which we think cannot well be done, and
+thoſe preſerved entire, if theſe Men be entruſted with the
+diſpenſing of them: For as they are known formerly to be of corrupt
+Principles and Practices themſelves, and the ſoundneſs of the Change,
+that they make, conſidering the time thereof (beſide other things) being
+greatly to be feared, ſo they will endeavour by degrees to bring in others of
+the ſame Stamp, whereby at length (others dying) a little Leaven may leaven
+the whole Lump, and ſo the ordinances be in great dan<g ref="char:EOLhyphen"/>ger of being corrupted,
+if not Changed, which will tend to the unſpeakable diſadvantage 
+<pb n="9" facs="tcp:133581:5"/>of the Poſterity: And in regard it will tend to the hurt of
+theſe Men themſelves, ſeing to admit them to ſuch a great Truſt, ſo
+eaſily and haſtily may harden them in their former evil wayes; whereas a
+more ſtrict and ſharp dealing, according as the rules of Diſcipline
+preſcribes to take with ſuch ſcandalous perſons, might by the
+Bleſſing of the LORD bring them to a ſight and conviction of the ſame.
+Theſe, and many other reaſons that might be adduced, have weight with us;
+and we are hopeful will ſo far prevail with Miniſters as to withſtand and
+oppoſe (now when they have power and opportunity) the polluting and
+peſtering the Church<g ref="char:punc">▪</g> and any mixing with the Men of theſe
+Abominations, notwithſtand<g ref="char:EOLhyphen"/>ing of what</hi> Authority <hi>may enjoyn: But if
+it ſhall be otherwayes, as it will preſage ſad things to this poor Church
+and Kingdom, ſo it will give ground of S<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>mbling at others.</hi>
+               </p>
+               <p>
+                  <hi>In like manner, as it is offenſive and ſtumbling to us,
+that ſome Miniſters and Elders hath been admitted to be conſtituent
+Members of the</hi> Aſsembly, <hi>who are ſo heinouſly guiltie and were
+ſo deeply involved in the defections of the late defyling times, as by the
+Word of GOD, and Conſtititutions of this Church, would debar them; So it
+cannot but be more ſtumb<g ref="char:EOLhyphen"/>ling and is mater of Complaint, that albeit there
+were many Reverend and Worthy</hi> Divines <hi>in the</hi> Aſſembly
+<hi>and</hi> Commiſſion <hi>thereof, yet oft times, when they have had
+publick matters to manage, and ſome things to put in Print, that ſuch
+ſhould have been appointed for that end, who are laxeſt, and deeply
+involved in that late defections; The ſad effects and conſe<g ref="char:EOLhyphen"/>quences whereof
+appears already, and certainly will be more evident afterwards, parti<g ref="char:EOLhyphen"/>cularly
+by that Book Intituled A</hi> ſecond Vindication of the Church of Scotland
+&amp;c. <hi>Wherein the Author (who was emploied for drawing up thereof, and
+does it name of the whole) not only gives ignominious Characters and Epithets
+unto Honeſt and Conſciencious Suffer<g ref="char:EOLhyphen"/>ers, but alſo condemns and
+diſownes their laudable actings in eaſing the Church and them<g ref="char:EOLhyphen"/>ſelves, in
+the</hi> Interregnum, <hi>of theſe perjured hirelings and intruders, the</hi>
+Curats: <hi>Wherein we are concerned in it, we are ſo far from being a
+ſhamed thereof, that we ſtand not to let it be known, that we are chiefly
+ſorry, we were not more active; And we may adventure with ſome confidence
+to ſay the like in behalf of others: And in ſome ſingleneſs of heart
+may add, that what we did therein, was from a Principle of Conſcience, and as
+a Duty lying bound on us, and not (meerly) becauſe they were our
+Perſecuters.</hi>
+               </p>
+               <p>
+                  <hi>Another thing offenſive to us and many others, is the
+ſeldom mentioning of our</hi> National and Solemn Covenants, <hi>not only in
+Preaching, but at Baptizing of Children, at which time formerly it was uſual
+to mention them, but now by ſome only darkly hinted at, and by o<g ref="char:EOLhyphen"/>thers
+altogether laid aſide; And it cannot but be grievous and wounding unto us,
+that the Author of the foreſaid Book, ſhould inſinuat ſo much as it is
+concluded, ſo be done. We are not for giving directions unto Miniſters;
+Nevertheleſs, we humbly conceive, we may ſafely complain of the ſilence
+of many of them, in this, eſpecially, when it is like to pro<g ref="char:EOLhyphen"/>duce ſuch
+ſad and lamentable effects, as the wearing out (among many) of the ſenſe
+and im<g ref="char:EOLhyphen"/>preſſion of the obligation and binding force of theſe</hi>
+Covenants, <hi>and that not a few are like to forget, that the ſame hath been
+broken and burnt in this Land. Whatever difficulties are alleaged, hindering
+the Solemn Renovations of them at this time, yet Miniſters may even at this
+ſeaſon, ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w people that
+perjurie and breach of Covenant, are among the ſins of the Land, and what way
+all ranks are guiltie of the ſame, as alſo that theſe Covenants 
+<pb n="10" facs="tcp:133581:6" rendition="simple:additions"/>are ſtill binding, and the obligation of them
+remains inviolable, notwithſtanding of any iniquious Law made againſt them
+in the late unhappy times.</hi>
+               </p>
+               <p>
+                  <hi>Like as, it is offenſive to us, and many others, that
+Miniſters hath been ſo ſilent at the</hi> En<g ref="char:EOLhyphen"/>croachments <hi>already made
+upon the priviledges of this Church, in putting a ſtope in a great:
+Meaſure, to the purging out of the</hi> Epiſcopal Clergy; <hi>by which
+Reformation is hindered, and negligent, erroneous, inſufficient and
+ſcandalous men are ſtill kept in: As alſo their ſilence at the
+adjournment of the</hi> General Aſſembly <hi>by proclamation, whereby that
+Eccleſi<g ref="char:EOLhyphen"/>aſtical Court is made like one of the civil Judicatories of the
+Nation: Theſe Encroach<g ref="char:EOLhyphen"/>ments and Uſurpations (againſt which we, for our
+parts; cannot but</hi> Witneſs <hi>and</hi> Proteſt) <hi>makes us afraid of
+the plague of</hi> Eraſtianſim <hi>(of which we heartily wiſh we may be
+diſap<g ref="char:EOLhyphen"/>pointed) the beginings whereof, and the very appearance of a Supremacie
+over the Church of CHRIST, arrogate by King or Council, or any whomſoever;
+Miniſters eſpecially, ought to withſtand, and not be hindered from
+aſſerting the priviledges of His Houſe, either for the terrour,
+pleaſure or perſwaſion of any Mortal, high or low, great or
+ſmall.</hi>
+               </p>
+               <p>
+                  <hi>To conclude; That it may be manifeſt for what end we
+mention theſe things (which is not fom pleaſure to ſpeak of them, or to
+make a noiſe about them, but from a fervent de<g ref="char:EOLhyphen"/>ſire to have them
+redreſſed and removed) and that all concerned, may know how deſire<g ref="char:EOLhyphen"/>ous we
+are of</hi> 
+                  <g ref="char:V">Ʋ</g>nion <hi>in the Lord, and what longing we have for the
+benefi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Goſpel in purity
+and power; Again and again we earneſtly intreate and ſeriouſly
+beſeeches that theſe our</hi> Complaints <hi>and</hi> Grivances <hi>above,
+may be laid to heart, and that ſome effectual, way may be fallen upon to
+remove and take them away, which we long for, that ſo our</hi> 
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>nion
+<hi>may be more comfortable, and we expect the Bleſſing of the Lord
+thereupon.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
